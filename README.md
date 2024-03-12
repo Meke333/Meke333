@@ -1,4 +1,4 @@
-Hello! I’m Meke (@Meke333)
+Hello! I’m Meke (@Meke333) 🥊🐇
 
 I am a 3rd semester, "Animation & Game" student at Darmstadt University of Applied Sciences (_hda).
 My interests are in the Game Development department. Especially as Game Programmer, but also as Technical Artist and some Design categories (Game Design, 3D Asset Creation).
@@ -14,9 +14,9 @@ Pronouns: he/him
 
 
 Loves: 
-- Bunnies
-- Cats
-- Boxing/Punchy Stuff
-- Murder Mysteries
-- Games
-- 3D stuff
+- 🐰 Bunnies
+- 🐱 Cats
+- 🥊 Boxing/Punchy Stuff
+- 🕵️ Murder Mysteries
+- 🎮 Games
+- 📦 3D stuff
